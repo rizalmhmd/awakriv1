@@ -53,8 +53,8 @@ global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Hyzerr/Hyzer-V3
-cd RadBot
+git clone https://github.com/frostkri/awakriv1
+cd awakriv1
 npm install
 npm update
 ```
